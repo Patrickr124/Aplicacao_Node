@@ -1,0 +1,8 @@
+Primeiro texto
+4
+5
+Segundo Texto
+10
+10
+Terceiro Texto
+10
